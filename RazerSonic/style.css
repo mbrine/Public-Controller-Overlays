@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
-.controller .custom .xbox {
-    background: url("https://cdn.jsdelivr.net/gh/mbrine/Public-Controller-Overlays/Razer%Sonic/base.png");
+.controller.xbox {
+    background: url("https://cdn.jsdelivr.net/gh/mbrine/Public-Controller-Overlays/RazerSonic/base.png");
     height: 630px;
     width: 750px;
 }
