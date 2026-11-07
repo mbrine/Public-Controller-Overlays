@@ -6,4 +6,7 @@ These are using GamePadViewer custom CSS links,
 Just copy the link for whichever controller overlay you want below!
 
 ### Razer Sonic Controller
-``` test ```
+#### Full overlay link
+```https://overlay.gamepadviewer.com/?p=1&editcss=https://raw.githubusercontent.com/mbrine/Public-Controller-Overlays/refs/heads/latest/RazerSonic/style.css```
+#### Edit CSS
+```https://raw.githubusercontent.com/mbrine/Public-Controller-Overlays/refs/heads/latest/RazerSonic/style.css```
